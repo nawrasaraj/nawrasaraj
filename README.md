@@ -1,24 +1,66 @@
 # Hello, I'm Nawras 👋
 
-👨‍💻 Welcome to my GitHub profile! I'm a passionate backend developer, powering systems behind the scenes – one algorithm, a pot of coffee, and a dash of problem-solving-sprinkle at a time 🌟
+👨‍💻 Welcome to my GitHub profile!  
+I'm a backend-focused software engineer, passionate about building scalable systems and crafting clean, efficient code — with a cup of coffee in one hand and a debugger in the other ☕🔧
 
-Here, you'll find a collection of my projects, contributions, and experiments.
+Here, you’ll find a mix of projects, experiments, and maybe a few late-night ideas turned into code.
+
+---
 
 ## 🚀 About Me
-- 💻 I specialize in backend development using languages such as Python, Java, and Node.js.
-- 🌐 I'm experienced in designing RESTful APIs and microservices architectures.
-- 🛠️ I enjoy working with databases like PostgreSQL, SQL, and Oracle.
-- 📈 I'm interested in optimizing performance, scalability, and security in web applications.
-- 📚 I believe in continuous learning and enjoy exploring new technologies and frameworks.
-  
-## 🔧 Technologies & Tools
-- **Languages**: PHP, C#, ASP.NET, Python, Java, Node.js
-- **Databases**: Oracle, SQL, Firebase, PostgreSQL
-- **Frameworks**: Laravel, Django
-- **Tools**: Docker, Kubernetes
-- **Version Control**: Git, BitBucket
-- **Design Patterns**: MVC
-- **Content Management Systems**: WordPress, Shopify
+
+- 💼 Currently a full-time Software Engineer in the government sector, leading backend development and API integrations.
+- 🌐 I work on designing and maintaining secure, scalable web systems, with a strong focus on RESTful APIs and performance optimization.
+- 🧩 I enjoy bridging systems together — whether through custom APIs, third-party integrations, or reworking backend flows for better efficiency.
+- 🌍 Previously interned in the Netherlands and UAE, gaining hands-on experience in frontend and full-stack environments.
+- 🧠 I believe in clean code, continuous learning, and building solutions that *actually* make life easier.
+
+---
+
+## 🛠️ Tech Toolbox
+
+**Languages**  
+`C#` | `Java` | `PHP` | `JavaScript`
+
+**Frameworks**  
+`ASP.NET` | `Laravel` | `React.js`
+
+**Databases**  
+`Oracle` | `MySQL` | `SQL Server`
+
+**Tools**  
+`Git` | `Docker` | `BitBucket` | `WordPress`
+
+**Patterns & Practices**  
+`MVC` | `REST API Design` | `Secure Auth Systems` | `Code Optimization`
+
+---
+
+## 🌱 Currently Exploring
+
+- Kubernetes & containerized deployments  
+- GraphQL for flexible, efficient data queries  
+- Advanced algorithms for system performance  
+
+---
+
+## 📫 Let's Connect
+
+- 📧 **Email**: nawrasaraj@gmail.com  
+- 💬 **WhatsApp**: [Click to message](https://wa.me/972593550605)  
+- 💼 **LinkedIn**: [linkedin.com/in/nawrasaraj](https://www.linkedin.com/in/nawrasaraj)  
+- 📸 **Instagram**: [@nawrasaraj](https://www.instagram.com/nawrasaraj0)
+
+---
+
+## 😸 Fun Fact
+
+I live by cat logic: sleep anywhere, anytime, and somehow still get things done 🐾
+
+---
+
+## Thanks for stopping by! 🙌  
+Feel free to check out my repos, leave feedback, or just say hi!
 
 <!--
 ## 🔭 Projects
@@ -35,24 +77,9 @@ Here are some of the projects I'm currently working on or have completed:
 ## Contributions
 I love contributing to open source! Here are some projects I've contributed to:
 - [Project Name](https://www.youtube.com/watch?v=DRUbS90BlB4)
-- [Another Project](https://www.youtube.com/watch?v=9A8sQZDRn5o) -->
+- [Another Project](https://www.youtube.com/watch?v=9A8sQZDRn5o)
 
-## 🌱 What I'm Currently Learning
-
-I'm always striving to enhance my skills and explore new technologies. Currently, I'm focusing on:
-
-- Kubernetes for container orchestration
-- GraphQL for efficient API development
-- Advanced algorithms and data structures
-  
-## 📫 Let's get in Touch
-- **Email**: nawrasaraj@gmail.com
-- **WhatsApp**: https://wa.me/972593550605
-- **LinkedIn**: www.linkedin.com/in/nawrasaraj
-- **Instagram**: https://www.instagram.com/nawrasaraj?igsh=MThkdndwbHU4cGh2eA==
-
-Feel free to reach out if you have any questions, suggestions, or just want to connect!
-<!--- **Blog**: 
+**Blog**: 
 
 ## Stats
 !Your GitHub Stats 
@@ -60,8 +87,3 @@ Feel free to reach out if you have any questions, suggestions, or just want to c
 ## 💬 Fun Fact
 
 Did you know that I have an online store for selling crafts made by me? Check it out if you wish! -->
-
-## 💬 Fun Fact
-I tend to live life like a cat - I can sleep anywhere, anytime, with no deadlines!🐱
-
-## Thanks for stopping by!😊
