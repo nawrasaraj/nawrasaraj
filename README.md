@@ -1,4 +1,4 @@
-# Hello, I'm Nawras 👋
+# Hello, I'm kharia 👋
 
 👨‍💻 Welcome to my GitHub profile!  
 I'm a backend-focused software engineer, passionate about building scalable systems and crafting clean, efficient code — with a cup of coffee in one hand and a debugger in the other ☕🔧
